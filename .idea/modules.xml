@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-webflux-demo/spring-boot-webflux-demo.iml" filepath="$PROJECT_DIR$/spring-boot-webflux-demo/spring-boot-webflux-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-web-blocking-api-demo/spring-web-blocking-api-demo.iml" filepath="$PROJECT_DIR$/spring-web-blocking-api-demo/spring-web-blocking-api-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-webflux-router-function-demo/spring-webflux-router-function-demo.iml" filepath="$PROJECT_DIR$/spring-webflux-router-function-demo/spring-webflux-router-function-demo.iml" />
+    </modules>
+  </component>
+</project>
